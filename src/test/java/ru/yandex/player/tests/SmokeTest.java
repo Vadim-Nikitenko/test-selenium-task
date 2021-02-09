@@ -6,6 +6,7 @@ import ru.yandex.player.base.BaseTest;
 import ru.yandex.player.pages.Film;
 import ru.yandex.player.pages.Main;
 
+import static io.restassured.RestAssured.given;
 import static org.assertj.core.api.Assertions.assertThat;
 
 
